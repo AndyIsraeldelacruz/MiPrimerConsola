@@ -1,5 +1,5 @@
 # MiPrimerConsola
-
+REGISTRO DE CARRERAS UNIVERSITARIAS
 El siguiente proyecto está basado en el lenguaje de programación C#. utilizando  los atributos WriteLine y ReadLine
 
 Como funciona: Al momento de ejecutar saldrá la consola en la cual debemos ingresar datos importantes
