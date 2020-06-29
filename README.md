@@ -1,13 +1,23 @@
 # MiPrimerConsola
-REGISTRO DE CARRERAS UNIVERSITARIAs...
-El siguiente proyecto está basado en el lenguaje de programación C#. utilizando  los atributos WriteLine y ReadLine
+#REGISTRO DE CARRERAS UNIVERSITARIAs...
 
-Como funciona: Al momento de ejecutar saldrá la consola en la cual debemos ingresar datos importantes
+<h1>El siguiente proyecto está basado en el lenguaje de programación C#. utilizando  los atributos WriteLine y ReadLine</h1>
 
-Nombre , Carrera , Ciudad , codigo  para  luego mostrarnos un mensaje de confirmación. 
+#Como funciona: 
 
-COMO UTILIZAR  EL CONTENIDO
-Lo descargamos como archivo zip.
-Lo extraemos donde nos parezca más factible.
-Abrimos el Visual studio.
-Una vez dentro de la carpeta en la parte derecha damos clic en programa.cs y lo ejecutamos.
+<h3>Al momento de ejecutar saldrá la consola en la cual debemos ingresar datos importantes
+
+Nombre , Carrera , Ciudad , codigo  para  luego mostrarnos un mensaje de confirmación. </h3>
+
+#COMO UTILIZAR  EL CONTENIDO
+
+<ul>
+<li>Lo descargamos como archivo zip.</li>
+<li>Lo extraemos donde nos parezca más factible.</li>
+<li>Abrimos el Visual studio.</li>
+<li>Una vez dentro de la carpeta en la parte derecha damos clic en programa.cs y lo ejecutamos.</li>
+  </ul>
+  
+  #Correo electrónico
+  
+  <h2>drag.andy@outlook.com </h2>
